@@ -9,7 +9,7 @@ This project demonstrates how to set up and configure a Windows Active Directory
 - Server OS: Windows Server 2019 (Evaluation)
 - Client OS: Windows 10
 - Network Type: Internal Network
-- Domain Name: lab1.com
+- Domain Name: Lab1.com
 
 ## Objectives
 - Install and configure Windows Server in a virtualized environment
