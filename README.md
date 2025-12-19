@@ -48,4 +48,4 @@ This project demonstrates how to set up and configure a Windows Active Directory
 - Documentation
 
 ## What I Learned
-This lab improved my understanding of how Active Directory, DNS, and domain authentication work together in a Windows domain environment.
+This lab improved my understanding of how Active Directory, DNS, and domain authentication.
